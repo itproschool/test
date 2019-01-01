@@ -1,0 +1,27 @@
+	#headerOption{
+		height:20%; width:100%;  background-color:grey;
+	}
+	#slogan{
+		height:100%;width:40%;background-color:white;float:left;
+	}
+	.logo{
+		height:90%; 
+		width:29%; 
+		background-color:grey; 
+		float:left ; 
+	} 
+	#login{
+		height:100%;width:30%;background-color:grey;float:left;
+	}
+	#bodyOption{
+		height:70%;width:100%;background-color:black;
+	}
+	#menuOptions{
+		height:100%;width:20%;background-color:yellow;float:left;
+	}
+	#mainContent{
+		height:100%;width:80%;background-color:green;float:left;
+	}
+	#footerOption{
+		height:10%;width:100%;background-color:#00FFFF;
+	}
